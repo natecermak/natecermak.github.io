@@ -2,7 +2,7 @@
 
 I am a biologist and an engineer, excited about making new tools to enable faster and more accessible science. I’ve developed technologies spanning electronics, optics, microfluidics, statistics, signal processing, and algorithmic development, and applied them across areas from microbiology to neuroscience.
 
-I gravitate towards open-source hardware and software development for biology and health-related applications, and I like learning about new projects. I may be available for consulting - please reach out to me at natecermak@pm.me.
+I gravitate towards open-source hardware and software development for biology and health-related applications, and I like learning about new projects. I may be available for consulting - please reach out to me at nate.cermak@pm.me.
 
 ## expertise
 Hardware: I enjoy being able to work on hardware and software simultaneously. Many of my projects have involved developing physical hardware, from an automated low-cost microscope, to an electrical stimulator for neuroscience research. I've developed circuits and PCBs, optical trains, and mechanical hardware for experimentation and implanted devices.
@@ -31,6 +31,7 @@ Theory: I have a strong background in statistics, data analysis, and signal proc
 - *2010-06 - 2016-05*: [Manalis](http://manalis-lab.mit.edu/) and [Polz](https://www.microbial-ecology.net/people/martin-polz) labs, MIT
     - I developed novel high-throughput inertial mass sensors for measuring the growth of single cells, with applications from marine microbiology, antibiotic resistance, and cancer biology.
     - I developed an FPGA-based hardware platform for controlling resonators and measuring their resonances rapidly and precisely in closed-loop, using digitally-implemented analog phased-locked loops.
+
 ## education
 
 - *2010-06 - 2016-05*: **PhD**. MIT Computational and Systems Biology
@@ -43,4 +44,4 @@ Please see my [google scholar profile](https://scholar.google.com/citations?user
 I hope so. I enjoy running (especially trail running), bouldering, swimming (especially open water), scuba and freediving to look at critters. I like music in most of its forms, and discovering new music is a big source of joy for me. I'm a pretty so-so cook but I also get joy out of cooking with/for people. I also really like teaching people about things I know well. I'd like to have more community in my life.
 
 ## footer
-last updated 2023-10-28.
+last updated 2023-10-30.
