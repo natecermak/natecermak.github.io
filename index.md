@@ -1,5 +1,3 @@
-## introduction
-
 I am a biologist and an engineer, excited about making new tools to enable faster and more accessible science. I’ve developed technologies spanning electronics, optics, microfluidics, statistics, signal processing, and algorithmic development, and applied them across areas from microbiology to neuroscience.
 
 I gravitate towards open-source hardware and software development for biology and health-related applications, and I like learning about new projects. I may be available for consulting - please reach out to me at nate.cermak@pm.me.
