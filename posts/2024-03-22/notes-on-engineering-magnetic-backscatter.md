@@ -46,7 +46,7 @@ We know the the total current going through inductor drops by a factor of $M$. T
 This is a [current divider](https://en.wikipedia.org/wiki/Current_divider), and the fraction of the current that goes through the originally impedance-matched load is $\frac{Z_{par}}{Z_{par} + {Z_L}^*}$. Therefore, the relative reduction in power delivered to the circuit's load while backscattering with a parallel load $Z_{par}$ is:
 
 $$
-M = \frac{ P_{with~Z_{par}} }{ P_{without~Z_{par}}} = |M|^2 \frac{|Z_{par}|^2}{|Z_{par} + {Z_L}^*|^2}
+\frac{ P_{with~Z_{par}} }{ P_{without~Z_{par}}} = |M|^2 \frac{|Z_{par}|^2}{|Z_{par} + {Z_L}^*|^2}
 $$
 
 ## Choosing loads that enable parallel combinations as discrete symbols
