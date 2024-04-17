@@ -43,11 +43,13 @@ Theory: I have a strong background in statistics, data analysis, and signal proc
 Please see my [google scholar profile](https://scholar.google.com/citations?user=5FN4gzUAAAAJ) for the most up-to-date list. PDFs are provided [here](publications.html) because publishers are greedy, evil corporations.
 
 ## do i exist outside work?
-I hope so. I enjoy running (especially trail running), bouldering, swimming (especially open water), scuba and freediving to look at critters. I like music in most of its forms, and discovering new music is a big source of joy for me. I'm a pretty so-so cook but I also get joy out of cooking with/for people. I also really like teaching people about things I know well. I'd like to have more community in my life.
+I hope so. I enjoy running (especially trail running), bouldering, swimming (especially open water), scuba and freediving to look at critters. Some of my photos are [here on instagram](https://www.instagram.com/eightynategrams/).  I like music in most of its forms, and discovering new music is a big source of joy for me. I'm a pretty so-so cook but I also get joy out of cooking with/for people. I also really like teaching people about things I know well. I'd like to have more community in my life.
 
 ## posts
 
  - [a low-power, low-cost instrumentation amplifier design for measuring biopotentials and neural signals](posts/2023-11-26/2023-11-26_inamp-biopotential-circuit.html)
  - [notes on engineering inductive backscatter during power delivery](posts/2024-03-22/notes-on-engineering-magnetic-backscatter.html)
+
+
 ## footer
 last updated 2024-04-16.
