@@ -72,7 +72,10 @@ n_bits = 4
 best_fit = None
 for i in range(100):
     print(".", end="", flush=True)
-    x0 = np.vstack([10 ** (5 * np.random.rand(4)), -1 * 10 ** (5 * np.random.rand(4))]).T.flatten()
+    x0 = np.vstack([
+        10 ** (5 * np.random.rand(n_bits)),
+        -1 * 10 ** (5 * np.random.rand(n_bits))
+    ]).T.flatten()
     # bounds specify real part must be positive, reactance must be negative (capacitive)
     bounds = [(0, None), (None, 0)] * n_bits
     warnings.filterwarnings("ignore")
@@ -106,3 +109,4 @@ print(f"Individual subcircuits (R&C): R={np.round(np.real(Z_single))}, C={C}")
 print(f"min distance: {-fit.fun/1e6}")
 
 plt.show()
+
