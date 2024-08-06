@@ -49,7 +49,7 @@ I hope so. I enjoy running (especially trail running), bouldering, swimming (esp
 
  - [a low-power, low-cost instrumentation amplifier design for measuring biopotentials and neural signals](posts/2023-11-26/2023-11-26_inamp-biopotential-circuit.html)
  - [notes on engineering inductive backscatter during power delivery](posts/2024-03-22/notes-on-engineering-magnetic-backscatter.html)
-
+ - [exceeding the Q bandwidth limit for communication via high-Q resonant coupled inductors](posts/2024-08-05/exceeding-the-q-bandwidth-limit-for-communication-via-high-q-resonant-coupled-inductors.html)
 
 ## footer
-last updated 2024-04-16.
+last updated 2024-08-05.
