@@ -46,7 +46,7 @@ And [here's the script](pre-distortion-high-q.py) that runs that analysis.
 
 All of the above analysis concerned a single resonator, not a pair of coupled resonances as in an inductive link. In the regime of very weak coupling, we could use the above scheme, plug in the drive coil Q, and ensures the *drive coil* has a step-like amplitude transition. But the voltage observed by the receiver still has to ring down on its own, so we'd still be stuck with the bandwidth limits of the receiver Q. Perhaps we can play the same trick for the overall system? Put differently, can we think of the whole system as having some equivalent Q?
 
-For identical resonators in series, there's an [exact formula for the equivalent Q](https://ieeexplore.ieee.org/abstract/document/1451088), published in 1973 no less! For the specific case of two identical resonators with some quality factor $Q$, the equivalent quality factor is about $1.554 Q$. If the Qs are unequal, for Qs in the range of 2-200, a good approximation for the resulting Q (measured as the -3dB bandwidth over the resonant frequency) is $Q_{equivalent} = \left( Q_1^{1.577} + Q_2^{1.577} \right)^{0.635}$.
+For identical resonators in series, there's an [exact formula for the equivalent Q](https://ieeexplore.ieee.org/abstract/document/1451088), published in 1973 no less! For the specific case of two identical resonators with some quality factor $Q$, the equivalent quality factor is about $1.554 Q$. If the Qs are unequal, for Qs in the range of 2-200, a good approximation for the resulting Q (measured as the resonant frequency over the -3dB bandwidth) is $Q_{equivalent} = \left( Q_1^{1.577} + Q_2^{1.577} \right)^{0.635}$.
 
 ### Example 2
 
