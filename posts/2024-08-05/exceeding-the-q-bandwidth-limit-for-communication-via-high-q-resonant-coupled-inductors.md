@@ -30,7 +30,7 @@ $$
 where, again, $V_{max}$ is the maximum drive amplitude possible, $V_H$ is the steady-state drive amplitude for the logic "high" state, and $V_L$ is the drive amplitude for the logic "low" state. In this scheme, the Q of the driver must be known in advance, and remain stable during operation.
 
 How long is "briefly" in the above description of the approach?
-1. To transition from low to high, it is $-\tau \ln \( 1 - \frac{V_H - V_L}{V_{max} - V_H} \)$, where $\tau = \frac{Q}{\pi f_0}$, $Q$ is the system quality factor, and $f_0$ is the system resonant frequency.
+1. To transition from low to high, it is $-\tau \ln \( 1 - \frac{V_H - V_L}{V_{max} - V_L} \)$, where $\tau = \frac{Q}{\pi f_0}$, $Q$ is the system quality factor, and $f_0$ is the system resonant frequency.
 2. To transition from high to low, it's $-\tau \ln \( 1 - \frac{V_H - V_L}{V_{max} + V_H} \)$ (just the denominator that changes).
 
 
